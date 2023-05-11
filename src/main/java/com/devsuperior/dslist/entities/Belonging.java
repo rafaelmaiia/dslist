@@ -13,7 +13,7 @@ import jakarta.persistence.Table;
 public class Belonging {
 	
 	@EmbeddedId
-	private BelongingPK id;
+	private BelongingPK id = new BelongingPK();
 	
 	private Integer position;
 	
