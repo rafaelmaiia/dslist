@@ -5,9 +5,9 @@
 
 [DSList App](dslist-production-da83.up.railway.app)
 
-DSList é uma aplicação web construída durante o **"Intensivão Java Spring"**, evento organizado pela escola [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DSList consiste em uma coleção de jogos eletrônicos organizados em listas, construída durante o **"Intensivão Java Spring"**, evento organizado pela escola [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em um sistema web com API Rest, com o back-end feito na linguagem Java utilizando o framework Spring Boot, banco de dados (H2 e Postgresql), e interação com o front-end através de requisições web (HTTP/JSON).
+A aplicação consiste em um sistema web com API Rest, com o foco no back-end feito na linguagem Java utilizando o framework Spring Boot, banco de dados (H2 e Postgresql), e requisições web (HTTP/JSON) utilizando o Postman.
 
 ## Tópicos Trabalhados 🛠
  - Conceitos (Sistemas web e recursos; Cliente/servidor, HTTP, JSON; Padrão REST para API web)
